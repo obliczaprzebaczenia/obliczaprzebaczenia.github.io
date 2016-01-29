@@ -1,9 +1,7 @@
---- 
+---
 layout: page
-title: Program konferencji
+title: Program Konferencji
 permalink: /program/
 ---
 
-**Program konferencji pojawi się wkrótce.**
-
-
+**Program konferencji zostanie ogłoszony niebawem.**
