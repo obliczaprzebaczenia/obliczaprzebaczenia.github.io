@@ -123,10 +123,10 @@ książką:
 
 *  **Tabele:**
 
-    *   numerowane **cyframi arabskimi **
+    *   numerowane **cyframi arabskimi**
 
     *   podpis **nad** tabelą – **z podaniem źródła zawartych w niej
-    > informacji**
+        informacji**
 
     *   tytuł tabeli i napisy w środku: czcionka Times New Roman **10 pkt**
 
@@ -140,7 +140,7 @@ książką:
     i poziomie:
 
 *  **Przyjęty system cytowania i zapisu bibliograficznego wg standardów
-    APA**
+     APA**
 
     *   **Cytowanie w tekście** (nie przypisy dolne) – wyłącznie nazwisko
     autora, data wydania dzieła. Numer stron w przypadku definicji,

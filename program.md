@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program Konferencji
+title: Program 
 permalink: /program/
 ---
 
