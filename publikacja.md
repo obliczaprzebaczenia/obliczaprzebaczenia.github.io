@@ -26,7 +26,7 @@ Istotne elementy treściowe wymagane od autorów rozdziałów:
     różnorodnych środowisk, w związku z tym nie zaleca się podawania
     szczegółowych danych statystycznych. Ponadto proszę o przemyślenie
     struktury rozdziału i próbie zobrazowania pewnych treści za pomocą
-    wykresów i schematów. *
+    wykresów i schematów.*
 
 **Redakcja zastrzega sobie prawo do nieprzyjęcia tekstów, które nie
 realizują powyższych elementów treściowych**
@@ -61,15 +61,15 @@ książką:
 
     *   **wypunktowanie:** jak w tych w zaleceniach
 
-*  Prosimy o dołączenie ***w odrębnym pliku* następujących informacji o
-    > Autorze**:
+*  Prosimy o dołączenie **w odrębnym pliku** następujących informacji o
+   Autorze:
 
     *   Imię i nazwisko Autora, Tytuł/Stopień naukowy
 
     *   Afiliacja – podstawowe miejsce pracy autora, adres miejsca pracy
 
     *   dane biograficzne – szczególnie informacje przydatne w promocji,
-    > informacje o praktycznym doświadczeniu etc.
+        informacje o praktycznym doświadczeniu etc.
 
     *   Telefon i adres do korespondencji z Redakcją
 
@@ -78,16 +78,16 @@ książką:
     *   Słowa kluczowe i streszczenie w języku angielskim
 
 *  Redakcja zastrzega sobie dokonanie skrótów i zmian wskazanych
-    > przez Recenzentów.
+   przez Recenzentów.
 
 *  Autorzy nie otrzymują wynagrodzenia za publikowane teksty. Tekst,
-    > jako rozdział w monografii, otrzymuje 4 pkt do
-    > oceny parametrycznej.
+   jako rozdział w monografii, otrzymuje 4 pkt do
+   oceny parametrycznej.
 
 *  Prosimy o dołączenie do tekstu oświadczenia o własności praw
-    > autorskich na wszelkie materiały zamieszczone w publikacji –
-    > formularz wraz z dodatkowymi informacjami zostanie przesłany w
-    > oddzielnej korespondencji.
+   autorskich na wszelkie materiały zamieszczone w publikacji –
+   formularz wraz z dodatkowymi informacjami zostanie przesłany w
+   oddzielnej korespondencji.
 
 *  **Rysunki, wykresy i tabele**
 
