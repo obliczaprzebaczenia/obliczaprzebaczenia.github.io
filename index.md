@@ -3,6 +3,8 @@ layout: page
 permalink: /
 ---
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/deanmccoyphotos/8191301315/in/photostream/" title="skylarface"><img src="https://farm9.staticflickr.com/8479/8191301315_f058edcc2b_o.jpg" width="719" height="719" alt="skylarface"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 **Katedra Psychologii Klinicznej na Wydziale Nauk Społecznych KUL oraz
 Katedra Etyki Szczegółowej na Wydziale Filozofii KUL zapraszają do
 udziału w Ogólnopolskiej Interdyscyplinarnej Konferencji Naukowej
