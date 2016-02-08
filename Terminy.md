@@ -4,6 +4,7 @@ title: Terminy i opłaty
 permalink: /terminy/
 ---
 
+
 Zgłoszenia są przyjmowane do **10 maja 2016 roku**
 
 [**Formularz zgłoszeniowy**](http://goo.gl/forms/KXu0pWiOIq)
@@ -12,6 +13,8 @@ Zgłoszenia są przyjmowane do **10 maja 2016 roku**
 **Opłaty:**
 
 * Opłata podstawowa za uczestnictwo – 100 zł
+
+* Opłata za uczestnictwo dla studentów i doktorantów – 50 zł
 
 * Opłata za publikację w monografii – 70 zł
 

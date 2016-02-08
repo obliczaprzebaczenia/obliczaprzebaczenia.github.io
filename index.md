@@ -49,4 +49,3 @@ sekcjach tematycznych:
 W ramach konferencji wygłoszone zostaną wykłady plenarne zaproszonych gości.
 
 
-[**Formularz zgłoszeniowy**](http://goo.gl/forms/KXu0pWiOIq)

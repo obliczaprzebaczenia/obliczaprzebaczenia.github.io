@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publikacja
-permalink: /Publikacja/
+permalink: /publikacja/
 ---
 
 Planowane jest wydanie monografii naukowej „Oblicza Przebaczenia”. Na
