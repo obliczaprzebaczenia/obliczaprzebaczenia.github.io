@@ -3,13 +3,15 @@ layout: page
 permalink: /
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/deanmccoyphotos/8191301315/in/photolist-6bshFp-dtQyv2-6bWsPD-6c1Cbu-6bWsHn-6bWsSP-6c1Cjh-6c1CeY-6c1C1w-6c1BTW-6c1BQb-6c1BMq-6c1BJ5-6bWspe-5UvRHt-5U6gBP-4G3kY1-6tY828-66C8AD-65qdkU-5XmCyx-5TECM9-6cQgpj-7d3iA2-6kh4Jy-6jen3L-6e5kUy" title="skylarface"><img src="https://farm9.staticflickr.com/8479/8191301315_56eb8dcce9_n.jpg" width="320" height="320" alt="skylarface"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/deanmccoyphotos/8191301315/in/photolist-6bshFp-dtQyv2-6bWsPD-6c1Cbu-6bWsHn-6bWsSP-6c1Cjh-6c1CeY-6c1C1w-6c1BTW-6c1BQb-6c1BMq-6c1BJ5-6bWspe-5UvRHt-5U6gBP-4G3kY1-6tY828-66C8AD-65qdkU-5XmCyx-5TECM9-6cQgpj-7d3iA2-6kh4Jy-6jen3L-6e5kUy" title="skylarface"><img style="display: block; margin-left: auto; margin-right: auto" src="https://farm9.staticflickr.com/8479/8191301315_56eb8dcce9_n.jpg" width="320" height="320" alt="skylarface"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Katedra Psychologii Klinicznej na Wydziale Nauk Społecznych KUL oraz
 Katedra Etyki Szczegółowej na Wydziale Filozofii KUL zapraszają do
 udziału w Ogólnopolskiej Interdyscyplinarnej Konferencji Naukowej
 „Oblicza przebaczenia”, która odbędzie się 3 czerwca 2016 r. w
 Katolickim Uniwersytecie Lubelskim Jana Pawła II.**
+
+**TERMIN KONFERENCJI: 3 czerwca 2016**
 
 Przebaczenie należy do doniosłych kategorii znanych ludziom z
 doświadczenia. Bodaj każdy człowiek kiedyś przebaczał, oczekiwał na
