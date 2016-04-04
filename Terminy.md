@@ -4,7 +4,7 @@ title: Terminy i opłaty
 permalink: /terminy/
 ---
 
-**TERMIN KONFERENCJI: 3 czerwca 2016**
+**TERMIN KONFERENCJI: 2 czerwca 2016**
 
 Zgłoszenia są przyjmowane do **10 maja 2016 roku**
 
