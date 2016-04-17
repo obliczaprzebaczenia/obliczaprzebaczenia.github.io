@@ -5,7 +5,7 @@ permalink: /
 
 <img style="float: left; padding: 0px 10px 0px 0px;" src="https://farm9.staticflickr.com/8479/8191301315_56eb8dcce9_n.jpg" width="320" height="320" alt="skylarface">
 
-**Katedra Psychologii Klinicznej na Wydziale Nauk Społecznych KUL oraz Katedra Etyki Szczegółowej na Wydziale Filozofii KUL zapraszają do udziału w Ogólnopolskiej Interdyscyplinarnej Konferencji Naukowej „Oblicza przebaczenia”, która odbędzie się 3 czerwca 2016 r. w Katolickim Uniwersytecie Lubelskim Jana Pawła II.**
+**Katedra Psychologii Klinicznej na Wydziale Nauk Społecznych KUL oraz Katedra Etyki Szczegółowej na Wydziale Filozofii KUL zapraszają do udziału w Ogólnopolskiej Interdyscyplinarnej Konferencji Naukowej „Oblicza przebaczenia”, która odbędzie się 2 czerwca 2016 r. w Katolickim Uniwersytecie Lubelskim Jana Pawła II.**
 
 **TERMIN KONFERENCJI: 2 czerwca 2016**
 
