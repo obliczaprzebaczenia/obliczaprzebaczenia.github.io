@@ -29,8 +29,6 @@ w konferencji.
 
 **Dane do przelewu:**
 
-* Monika Guzewicz
-
 * Bank Zachodni WBK
 
 * 06 1090 1997 0000 0001 0095 4970
