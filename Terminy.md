@@ -15,7 +15,8 @@ Zgłoszenia są przyjmowane do **10 maja 2016 roku**
 
 * Opłata podstawowa za uczestnictwo – 100 zł
 
-* Opłata za uczestnictwo dla studentów – 50 zł
+* Opłata za uczestnictwo dla studentów </br>
+(uczestnicy bez tytułu magistra)– 50 zł
 
 * Opłata za publikację w monografii – 70 zł
 
